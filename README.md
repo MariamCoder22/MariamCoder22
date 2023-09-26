@@ -1,6 +1,6 @@
 Welcome to My Coding Playground! 🚀
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+fellow+code+enthusiast!;I'm+Mariam!;Welcome+to+my+GitHub+repository%2C;where+the+magic+of+coding+and+;my+love+for+problem-solving+collide+;in+a+glorious+explosion+of+creativity!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+coding+enthusiast!;I'm+Mariam!;Welcome+to+my+GitHub+repository;where+the+magic+of+coding+and;my+love+for+problem+solving+collide;in+a+glorious+explosion+of+;creativity!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 Who Am I? 🤖
 I'm just a passionate developer who spends way too much time in front of a computer screen, sipping on coffee and typing away furiously. My love for coding knows no bounds, and I firmly believe that every line of code I write has the power to make the world a slightly better place. 🌍
