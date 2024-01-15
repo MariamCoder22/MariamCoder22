@@ -5,8 +5,19 @@ Welcome to My Coding Playground! 🚀
 Who Am I? 🤖
 I'm just a passionate developer who spends way too much time in front of a computer screen, sipping on coffee and typing away furiously. My love for coding knows no bounds, and I firmly believe that every line of code I write has the power to make the world a slightly better place. 🌍
 
+## 📈 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamCoder22&show_icons=true&theme=radical)](https://github.com/MariamCoder22)
+
 What's My Passion? 🚀
 Coding isn't just a hobby for me; it's an art form, a puzzle, and a way of life. I wake up in the morning with a burning desire to tackle complex problems, turn wild ideas into reality, and create projects that flesh out everything about everything. 💡
+
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 What You'll Find Here 🎁
 Diverse Projects: From web development to machine learning, and everything in between, you'll find a smorgasbord of projects that reflect my insatiable curiosity.
@@ -24,5 +35,8 @@ Pull Requests: Ready to roll up your sleeves and contribute? I welcome pull requ
 
 Let's Code Some Dreams! ✨
 Thank you for visiting my coding playground. I hope you'll find something here that sparks your curiosity, ignites your passion for coding, and leaves you inspired to tackle new challenges. Together, we can create, innovate, and make the world of technology a little more exciting, one line of code at a time. 💻🌟
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-khayr-06027a189/)
 
 Happy coding! 🚀🤖
