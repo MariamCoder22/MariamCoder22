@@ -8,6 +8,13 @@ I'm just a passionate developer who spends way too much time in front of a compu
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamCoder22&show_icons=true&theme=radical)](https://github.com/MariamCoder22)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamCoder22)
+
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+
+
 What's My Passion? 🚀
 Coding isn't just a hobby for me; it's an art form, a puzzle, and a way of life. I wake up in the morning with a burning desire to tackle complex problems, turn wild ideas into reality, and create projects that flesh out everything about everything. 💡
 
