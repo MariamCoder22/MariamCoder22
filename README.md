@@ -1,5 +1,8 @@
 Welcome to My Coding Playground! 🚀
 
+![](https://komarev.com/ghpvc/?username=MariamCoder22)
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+coding+enthusiast!;I'm+Mariam!;Welcome+to+my+GitHub+repository;where+the+magic+of+coding+and;my+love+for+problem+solving+collide;in+a+glorious+explosion+of+;creativity!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 Who Am I? 🤖
@@ -13,6 +16,10 @@ I'm just a passionate developer who spends way too much time in front of a compu
 
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+
+
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 What's My Passion? 🚀
