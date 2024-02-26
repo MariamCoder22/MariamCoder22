@@ -19,6 +19,7 @@ I'm just a passionate developer who spends way too much time in front of a compu
 
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-red?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
