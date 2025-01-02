@@ -1,4 +1,5 @@
-<!-- Dynamic Night/Day Theme Toggle -->
+## 1. 🌙 Day/Night Theme Toggle
+A lightweight toggle button to showcase dynamic theme switching using **CSS** and **JavaScript**.
 <div id="theme-toggle">
   <button onclick="toggleTheme()">🌞 Switch to Night Mode</button>
 </div>
