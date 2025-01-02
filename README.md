@@ -1,3 +1,24 @@
+<!-- Dynamic Night/Day Theme Toggle -->
+<div id="theme-toggle">
+  <button onclick="toggleTheme()">🌞 Switch to Night Mode</button>
+</div>
+<script>
+  function toggleTheme() {
+    document.body.classList.toggle('dark-mode');
+    const button = document.querySelector('#theme-toggle button');
+    button.textContent = document.body.classList.contains('dark-mode') ? '🌙 Switch to Day Mode' : '🌞 Switch to Night Mode';
+  }
+</script>
+<style>
+  body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: Arial, sans-serif;
+  }
+  .dark-mode {
+    background-color: #2e2e2e;
+    color: white;
+  }
+</style>
 Welcome to My Coding Playground! 🚀
 
 ![](https://komarev.com/ghpvc/?username=MariamCoder22)
