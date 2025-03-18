@@ -15,7 +15,7 @@ I'm just a passionate developer who spends way too much time in front of a compu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamCoder22)
 
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MariamCoder22)](https://git.io/streak-stats)
 
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
